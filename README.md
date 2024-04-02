@@ -1,6 +1,7 @@
-<h1>Remote Desktop Protocol (RDP)</h1>
+<h1>Executing RDP</h1>
 
-![image](https://github.com/achann297/AboutRDP/assets/162517715/11229e8b-28f5-4f42-aeed-b1853ffcb015)
+![image](https://github.com/achann297/usingRDP/assets/162517715/3f6d3e02-1434-4b24-bf54-506fd4e08c6e)
+
 
 
 
