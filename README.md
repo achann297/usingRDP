@@ -2,17 +2,8 @@
 
 ![image](https://github.com/achann297/usingRDP/assets/162517715/3f6d3e02-1434-4b24-bf54-506fd4e08c6e)
 
-
-
-
-<h2>About</h2>
-Remote Desktop Protocol is a method used to link from the client server to diplay another client, while experiencing shared connections to the end client. It allows users to execute programs or activities on another host's PC purely through a remote connection. As opposed to VPN, RDP is specifically used on a single local computer, whereas VPNs are related to an entire new server connection. Mac and Windows computers both have access to a remote desktop connection. RDP is accessed through port 3389.
-
-<h2>Operations Used </h2>
-
-- Windows 10
-- Windows Remote Desktop Connection
-- Microsoft Azure Virtual Machine
+- In the Windows startup menu, use the searchbar and type "Remote" and open remote desktop connection
+- Another method of opening the application is to go through your system settings, click System, and make your way over to the Remote Desktop tab.
 
 <h2>Why Use RDP?</h2>
 
